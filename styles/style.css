@@ -1692,6 +1692,7 @@ html[dir="rtl"] .cv-gallery > li {
 html[dir="rtl"] .cv-skills > li {
     float: right;
     padding: 8px;
+    margin-left: 10px;
 }
 
 .cv-skills > li canvas {
