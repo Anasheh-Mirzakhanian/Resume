@@ -1865,7 +1865,7 @@ html[dir="rtl"] .cv-languages > li {
 .cv-hobby > li {
     text-align: center;
     width: 33.333%;
-    float: left;
+    float: right;
     padding: 16px;
 }
 
